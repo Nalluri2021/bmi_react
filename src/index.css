@@ -1,0 +1,52 @@
+*{
+  margin: 0 auto; 
+}
+
+.h1{
+  color: green;
+  font-weight: 700;
+  margin: 25px;
+  text-align: center;
+}
+
+.input-container{
+  width: 30%; /* Adjust the width of the container as needed */
+  margin: auto; /* Center the container horizontally */
+  text-align: left; 
+}
+label{
+display: block; 
+font-weight:bold;
+font-size: 22px;
+margin-bottom: 5px;
+margin-top: 5px;
+}
+.input-class{
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+
+}
+.calculate-btn{
+  background-color: rgb(187, 243, 243);
+  width: 20%; 
+  display: block; 
+  padding: 10px; 
+  font-size: 22px;
+  align-items: center;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+.result-container{
+  width: 30%;
+  margin:  auto;
+  padding: 10px;
+  font-size: 20px;
+}
+.result-container p{
+  margin-top: 10px;
+  font-size: 22px;
+  color: green;
+  text-align: center;
+}
